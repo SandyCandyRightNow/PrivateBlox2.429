@@ -1,0 +1,14 @@
+-- loading an profile !
+
+-- 1 is default (Sandy.Candy)
+-- 2 is player can register
+
+ProfileName = 1
+
+-- here you can change started robux value
+
+Robux = 100
+
+-- here is calendarregisterdata, 1 default (1.07.2023), 2 is real registered data
+
+CalendarRegisterData = 1
