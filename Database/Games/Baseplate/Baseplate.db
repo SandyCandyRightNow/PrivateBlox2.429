@@ -1,0 +1,14 @@
+{{
+
+ SpawnCenter,
+
+Baseplate = 1
+
+             }}
+
+-- if you wanna import your game,
+-- just save model there, and rename it
+-- to HEREISYOURSGAMENAME.db then edit it and on last string press enter,
+-- and then write all scripts on lua. 
+-- (if needs script to object, just write example this)
+-- EXAMPLE SCRIPT FOR PART, Script.On = YOURPARTNAME
