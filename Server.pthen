@@ -1,0 +1,12 @@
+import pythenServer
+import.File from Core.pthen
+print "(SERVER BY SANDYCANDYRIGHTNOW SERVER SUPPORTED VERSION : 2.429)"
+
+ pythenServer_Configuration:
+
+ {%%IP%%:0.0.0.0,
+   PORT:%%9339%%}
+
+newMsg = serverLoaded
+ wheniGet (ServerLoaded)
+then print "(Server is started, Ip : %%IP%%, Port : %%PORT%%)"
