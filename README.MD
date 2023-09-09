@@ -1,4 +1,7 @@
-yeah logic isn't here because i wanna sleep
-HI There this **an beta-test of fully working roblox server.**
-If you see'd bugs, don't worry
-nah bro apk in developing 💀
+**ANDROID**
+https://www.mediafire.com/file/5tzhhe60ryg0nn0/PrivateBlox.apk/file
+(use apk editor studio in pc, because resources too coded)
+
+**IOS CLIENT**
+author didn't released yet an ios client.
+-------------------------------------------------------------------
