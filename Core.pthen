@@ -1,5 +1,10 @@
--- loading an profile !
+import from Database\Games
+import from Database\Profiles
 
+if.Joined = create.Database in Database\Profiles\%%ProfileName%%.db
+
+-- loading an profile !
+import from Database\Games
 -- 1 is default (Sandy.Candy)
 -- 2 is player can register
 
@@ -12,3 +17,5 @@ Robux = 100
 -- here is calendarregisterdata, 1 default (1.07.2023), 2 is real registered data
 
 CalendarRegisterData = 1
+
+if.Joined = create.Database in Database\Profiles\%%ProfileName%%.db
